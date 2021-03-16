@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on sharing knowledge and creating a network from it.
 - 📫 You can reach me using these platforms:
 
-Email: leon.victor20@gmail.com/
+Email: leon.victor20@gmail.com
 
 Linkedin: https://www.linkedin.com/in/leon-victor-medeiros-de-lima-55a26082/
 
