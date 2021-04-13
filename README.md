@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leon Victor (@leonvictorlima)
-- 👀 I’m interested in how impactful data is and how is changing the world. 
+- 👀 I’m interested in how impactful data is and how it is changing the world. 
 - 🌱 I’m currently learning data science and applying its concepts to solve business problems.
 - 💞️ I’m looking to collaborate on sharing knowledge and creating a network from it.
 - 📫 You can reach me using these platforms:
